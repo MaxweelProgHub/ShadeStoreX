@@ -1,0 +1,25 @@
+footer {
+    background-color: #fff;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 40%;
+}
+
+footer .base-help {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.base-help a {
+    background-color: #FF0B55;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+    cursor: pointer;
+    margin-top: 20px;
+}
